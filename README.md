@@ -7,7 +7,7 @@ responsive.
 Imagine you are designing a tech startup homepage or a personal portfolio site. The page
 should make someone go: “Wow, this looks amazing!”
 
-What You’ll Build (Requirements)
+What You’ll Build (Requirements):
 Header & Navigation
 o Logo / brand name
 o Simple nav links (Home, About, Contact)
@@ -16,13 +16,13 @@ o Big heading + short catchy tagline
 o One CTA button (“Join Now” / “Get Started”)
 o Background image or gradient
 
-Features Section
-o 3–4 cards with icons/text (use free icons from Flaticon or Font Awesome
+Features Section:
+ 3–4 cards with icons/text (use free icons from Flaticon or Font Awesome
 
-Footer
-o Copyright + simple links
+Footer:
+ Copyright + simple links
 
-Styling
+Styling:
 o Use modern fonts from Google Fonts
 o Colour gradients or pastel tones
 o Hover effects on buttons & links
