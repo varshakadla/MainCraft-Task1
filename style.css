@@ -8,7 +8,7 @@ html, body{
 }
 
 .page-container{
-    background-image: url(back2.avif);
+    background-image: url("Images/back2.avif");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
